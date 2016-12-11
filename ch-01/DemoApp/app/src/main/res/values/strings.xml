@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="nameQuestionLabel">What is your name?</string>
+    <string name="hiLabel">Hi</string>
+    <string name="namePlaceHolderLabel">..</string>
+    <string name="submit">Submit</string>
+</resources>
